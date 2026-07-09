@@ -2,6 +2,7 @@
 *.~*
 *.dsk
 *.md
+!README.md
 GTAGS
 GRTAGS
 GPATH
