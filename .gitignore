@@ -1,0 +1,9 @@
+*.dcu
+*.~*
+*.dsk
+*.md
+GTAGS
+GRTAGS
+GPATH
+Win32/
+__history/
